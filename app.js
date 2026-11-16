@@ -9,7 +9,7 @@ const BILLING = 'https://store.microsoft.com/billing';
 // Partner Center add-on Product ID (InAppOfferToken). Must match Partner Center exactly.
 const PRODUCTS = { lifetime: 'cok_lifetime' };
 const PRODUCT_ORDER = [PRODUCTS.lifetime];
-const STORE_ID = '';
+const STORE_ID = '9NZP9G4FSJ06';
 const LINKS = {
   base: 'https://joykhansayan1.github.io/continents-oceans-kids-windows',
   get privacy() { return this.base + '/privacy.html'; },
