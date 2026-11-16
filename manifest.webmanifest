@@ -1,0 +1,48 @@
+{
+  "id": "./",
+  "name": "Continents & Oceans Kids",
+  "short_name": "Continents Kids",
+  "description": "A world map playground for kids ages 6–8: learn the 7 continents and 5 oceans with map puzzles, fun facts, animals, quizzes and stickers. Works offline.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "display_override": [
+    "window-controls-overlay",
+    "standalone"
+  ],
+  "orientation": "any",
+  "background_color": "#2178E6",
+  "theme_color": "#2178E6",
+  "lang": "en",
+  "dir": "ltr",
+  "categories": [
+    "education",
+    "kids"
+  ],
+  "icons": [
+    {
+      "src": "icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "icons/icon-1024.png",
+      "sizes": "1024x1024",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}
